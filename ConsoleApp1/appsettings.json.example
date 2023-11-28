@@ -1,0 +1,12 @@
+{
+  "AWS": {
+    "AccessKeyId": "your_access_key_id",
+    "SecretAccessKey": "your_secret_access_key",
+    "Region": "your_region",
+    "SecurityGroupId": "your_security_group_id"
+  },
+  "Ports": {
+    "FromPort": 3389,
+    "ToPort": 3389
+  }
+}
